@@ -17,6 +17,6 @@ class App < Sinatra::Base
   end
 end
 
-# 	1. get '/hey' do 
-# 	2. @session = session
+# 	 get '/hey' do 
+# 	 @session = session
 # end
