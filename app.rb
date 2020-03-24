@@ -16,3 +16,7 @@ class App < Sinatra::Base
     @sessions[:item] = item
   end
 end
+
+	1. get '/hey' do 
+	2. @session = session
+end
